@@ -1,2 +1,2 @@
 # David-Mudriy
-Infrastructure &amp; Security Ops | Network Engineering | Linux &amp; Bash Automation | Ex-Test Tech III | Based in Portland, OR 🛡️💻
+Infrastructure &amp; Security Ops | Network Engineering | Linux &amp; Bash Automation | Ex-Hardware Test Technician | Based in Portland, OR 🛡️💻
