@@ -1,6 +1,3 @@
-Here is the entire file consolidated into a single block so you can just hit the copy button and paste it straight into your repository's `README.md`:
-
-```markdown
 <div align="center">
   <!-- ANIMATED SYSTEM TERMINAL BOOT -->
   <a href="https://git.io/typing-svg">
